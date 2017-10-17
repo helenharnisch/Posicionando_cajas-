@@ -1,0 +1,47 @@
+.Madre_roja{
+  width: 400px;
+  height: 400px;
+  background-color: #ed3232;
+  margin: 20px;
+  position: relative;
+}
+
+.Hija_violeta{
+  width: 200px;
+  height: 200px;
+  background-color: #915adf;
+  position: absolute;
+  top:100px;
+  left:100px ;
+}
+
+.Nieta_amarilla{
+  width: 100px;
+  height: 100px;
+  background-color: #e6eb17;
+  position: absolute;
+}
+
+.Madre_azul{
+  width: 400px;
+  height: 400px;
+  background-color: #293cc8;
+  margin: 20px;
+  position: relative;
+}
+
+.Hija_verde{
+  width: 200px;
+  height: 200px;
+  background-color: #46ec13;
+  position: absolute;
+  top:100px;
+  left:100px ;
+}
+
+.Hija_negro{
+  width: 100px;
+  height: 100px;
+  background-color: #000000;
+  position: absolute;
+}
